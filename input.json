@@ -1,0 +1,37 @@
+{
+  "machines": 2,
+  "scheduler": "RR",
+  "timeQuantum": 1,
+  "jobs": [
+    {
+      "id": 1,
+      "processingTime": 5,
+      "arrivalTime": 0,
+      "priority": 3
+    },
+    {
+      "id": 2,
+      "processingTime": 3,
+      "arrivalTime": 0,
+      "priority": 1
+    },
+    {
+      "id": 3,
+      "processingTime": 7,
+      "arrivalTime": 2,
+      "priority": 2
+    },
+    {
+      "id": 4,
+      "processingTime": 2,
+      "arrivalTime": 4,
+      "priority": 5
+    },
+    {
+      "id": 5,
+      "processingTime": 4,
+      "arrivalTime": 5,
+      "priority": 4
+    }
+  ]
+}
